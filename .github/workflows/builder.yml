@@ -1,8 +1,9 @@
 name: build
 on:
   schedule:
-    - cron: "24 4 * * *"
-  # workflow_dispatch: ~
+  # github 延迟测试，UTC 时间测试 https://zhuanlan.zhihu.com/p/369780435
+    - cron: "0 5 * * *"
+  workflow_dispatch: ~
   pull_request:
   workflow_run:
     workflows: ["wakatime"]
