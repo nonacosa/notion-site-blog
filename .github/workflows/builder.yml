@@ -28,8 +28,6 @@ jobs:
           NOTION_SECRET : ${{ secrets.NOTION_SECRET }}
       - name: Commit files
         run: |
-          git submodule update --init --recursive
-          git submodule update --remote --recursive
           git config user.email "action@github.com"
           git config user.name "GitHub Actions"
           git add --all
