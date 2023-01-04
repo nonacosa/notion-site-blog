@@ -1,7 +1,6 @@
 name: build
 on:
   schedule:
-  # github 延迟测试，UTC 时间测试 https://zhuanlan.zhihu.com/p/369780435
     - cron: "0 */6 * * *"
   workflow_dispatch: ~
 jobs:
@@ -30,11 +29,11 @@ jobs:
           git config pull.rebase false
           git pull
           git push 
-      - name: Format documents
-        uses: creyD/prettier_action@v3.1
-        with:
-          prettier_options: --write ./content/**/*.md
-          commit_message: 'notion-site: update articles (auto)'
+      # - name: Format documents
+        # uses: creyD/prettier_action@v3.1
+        # with:
+          # prettier_options: --write ./content/**/*.md
+          # commit_message: 'notion-site: update articles (auto)'
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
