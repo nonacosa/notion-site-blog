@@ -51,9 +51,8 @@ jobs:
         if: steps.verify_diff.outputs.changed == 'true'
         run: hugo --minify
       - name: Deploy
-        if: steps.verify_diff.outputs.changed == 'true'
+        if: steps.verify_diff.outputs.changed == 'true' && ${{ github.ref == 'refs/heads/main' }}
         uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
