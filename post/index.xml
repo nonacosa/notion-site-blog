@@ -1,4 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on nonacosa's Blog</title><link>https://blog.env.wtf/post/</link><description>Recent content in Posts on nonacosa's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 02 Jan 2023 19:17:00 +0700</lastBuildDate><atom:link href="https://blog.env.wtf/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Better Call Saul</title><link>https://blog.env.wtf/p/saul/</link><pubDate>Mon, 02 Jan 2023 19:17:00 +0700</pubDate><guid>https://blog.env.wtf/p/saul/</guid><description>&lt;img src="https://blog.env.wtf/p/saul/media/s3.us-west-2.amazonaws.com_7de3c2ca828cd1332455199e22796831.jpeg" alt="Featured image of post Better Call Saul" />&lt;p>&lt;img src="https://blog.env.wtf/p/saul/media/s3.us-west-2.amazonaws.com_7de558e0-4a6a-4896-a831-9969a6b0d346.png"
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on nonacosa's Blog</title><link>https://blog.env.wtf/post/</link><description>Recent content in Posts on nonacosa's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 04 Jan 2023 02:14:00 +0700</lastBuildDate><atom:link href="https://blog.env.wtf/post/index.xml" rel="self" type="application/rss+xml"/><item><title>2023 Flag</title><link>https://blog.env.wtf/p/2023-flag/</link><pubDate>Wed, 04 Jan 2023 02:14:00 +0700</pubDate><guid>https://blog.env.wtf/p/2023-flag/</guid><description>&lt;img src="https://blog.env.wtf/p/2023-flag/media/s3.us-west-2.amazonaws.com_2023-annee-4330812.webp" alt="Featured image of post 2023 Flag" />&lt;link rel="preload" href="https://blog.env.wtf/notion-site/bookmark/bookmark.css" as="style">
+&lt;link rel="stylesheet" href="https://blog.env.wtf/notion-site/bookmark/bookmark.css" data-n-g="">
+&lt;a class="notion-site-bookmark" href="https://www.v2ex.com/t/906179?p=2" target="_blank" rel="noreferrer" class="">
+&lt;article class="flex justify-between h-40 rounded border border-gray-400 border-solid">
+&lt;div class="flex flex-col justify-between p-5 hover:bg-gray-100 w-3/5">
+&lt;h3 class="text-2xl truncate">2023 年大家的 flag 是什么？ - V2EX &lt;/h3>
+&lt;p class="overflow-hidden h-12 text-base text-gray-500 notion-site-bookmark-p">
+问与答 - @asche910 - 鉴于没搜到类似帖子，我来创建一个。我先来* 谈一段时间长点的恋爱* 多尝试副业* 熟练掌握剪辑技能一年后再翻开帖子，@大家
+&lt;/p>
+&lt;div class="flex items-center">
+&lt;p class="text-base truncate ml-2 notion-site-bookmark-p">
+https://www.v2ex.com/t/906179?p=2
+&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;div class="w-2/5 h-full rounded">
+&lt;img src="%3cno%20value%3e" class="object-cover w-full h-full" alt="">
+&lt;/div>
+&lt;/article>
+&lt;/a>
+&lt;p>今天看到大家已经开始立 2023 年的 flag 了，也凑了下热闹，2022 年立的 flag 基本都干了，但是都没干完或者 2023 年才实现，元旦正式戒烟戒酒了，电子烟也扔了，开始备孕，希望今年能有所收获。&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> 读 10 本英文原版书&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> 开始练习摄影，拍摄 10 个满意的作品&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> 点亮 Flutter 技能树，开发一个英文阅读器 APP&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> 备孕成功&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Better Call Saul</title><link>https://blog.env.wtf/p/saul/</link><pubDate>Mon, 02 Jan 2023 19:17:00 +0700</pubDate><guid>https://blog.env.wtf/p/saul/</guid><description>&lt;img src="https://blog.env.wtf/p/saul/media/s3.us-west-2.amazonaws.com_7de3c2ca828cd1332455199e22796831.jpeg" alt="Featured image of post Better Call Saul" />&lt;p>&lt;img src="https://blog.env.wtf/p/saul/media/s3.us-west-2.amazonaws.com_7de558e0-4a6a-4896-a831-9969a6b0d346.png"
 width="3600"
 height="2400"
 srcset="https://blog.env.wtf/p/saul/media/_hu8a9d5706c2ff7ac61e74f25ef2eed4a5_8211995_67dad98ace41040cd795093685c28637.png 480w, https://blog.env.wtf/p/saul/media/_hu8a9d5706c2ff7ac61e74f25ef2eed4a5_8211995_2e48fb0cbebf25a19ba0c4d2896c5411.png 1024w"
@@ -65,45 +99,7 @@ class="gallery-image"
 data-flex-grow="177"
 data-flex-basis="427px"
 >&lt;/p>
-&lt;p>选一条艰难但正确的道路。&lt;/p></description></item><item><title>Table</title><link>https://blog.env.wtf/p/table/</link><pubDate>Mon, 02 Jan 2023 18:59:00 +0700</pubDate><guid>https://blog.env.wtf/p/table/</guid><description>&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>产品&lt;/th>
-&lt;th>RSS&lt;/th>
-&lt;th>速度&lt;/th>
-&lt;th>备份&lt;/th>
-&lt;th>部署&lt;/th>
-&lt;th>移动端&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Notion&lt;/td>
-&lt;td>❌&lt;/td>
-&lt;td>❌&lt;/td>
-&lt;td>✔&lt;/td>
-&lt;td>✔&lt;/td>
-&lt;td>✔&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Hugo&lt;/td>
-&lt;td>✔&lt;/td>
-&lt;td>✔&lt;/td>
-&lt;td>❌&lt;/td>
-&lt;td>❌&lt;/td>
-&lt;td>❌&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Notion-Site&lt;/td>
-&lt;td>✔&lt;/td>
-&lt;td>✔&lt;/td>
-&lt;td>✔&lt;/td>
-&lt;td>✔&lt;/td>
-&lt;td>✔&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;!--more--></description></item><item><title>The hound of the Baskervilles</title><link>https://blog.env.wtf/p/the-hound-of-the-baskervilles/</link><pubDate>Mon, 02 Jan 2023 17:55:00 +0700</pubDate><guid>https://blog.env.wtf/p/the-hound-of-the-baskervilles/</guid><description>&lt;img src="https://blog.env.wtf/p/the-hound-of-the-baskervilles/media/s3.us-west-2.amazonaws.com_61vl05lJtFL.jpg" alt="Featured image of post The hound of the Baskervilles" />&lt;p>近两年越来越觉得英语非常重要，对自己的人生规划也越来越贴近欧美的：目前只针对输入下手：听 读，今天来讲讲近一个月我对读的努力：&lt;/p>
+&lt;p>选一条艰难但正确的道路。&lt;/p></description></item><item><title>The hound of the Baskervilles</title><link>https://blog.env.wtf/p/the-hound-of-the-baskervilles/</link><pubDate>Mon, 02 Jan 2023 17:55:00 +0700</pubDate><guid>https://blog.env.wtf/p/the-hound-of-the-baskervilles/</guid><description>&lt;img src="https://blog.env.wtf/p/the-hound-of-the-baskervilles/media/s3.us-west-2.amazonaws.com_61vl05lJtFL.jpg" alt="Featured image of post The hound of the Baskervilles" />&lt;p>近两年越来越觉得英语非常重要，对自己的人生规划也越来越贴近欧美的：目前只针对输入下手：听 读，今天来讲讲近一个月我对读的努力：&lt;/p>
 &lt;p>在阅读之前我也在几个平台测试了自己的词汇量，下面是欧路的测试，其实是一塌糊涂：&lt;/p>
 &lt;p>&lt;img src="https://blog.env.wtf/p/the-hound-of-the-baskervilles/media/s3.us-west-2.amazonaws.com_5b7a3e09-8265-4a25-bd08-44a29c84b006.png"
 width="1444"
