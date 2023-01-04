@@ -2,14 +2,8 @@ name: build
 on:
   schedule:
   # github 延迟测试，UTC 时间测试 https://zhuanlan.zhihu.com/p/369780435
-    - cron: "0 5 * * *"
+    - cron: "0 */1 * * *"
   workflow_dispatch: ~
-  pull_request:
-  workflow_run:
-    workflows: ["wakatime"]
-    branches: [master]
-    types: 
-      - completed
 jobs:
   sync:
     name: Sync from notion
