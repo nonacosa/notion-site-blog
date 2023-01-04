@@ -8,7 +8,7 @@ keywords: []
 createat: "2022-12-01T06:49:00+07:00"
 author: nonacosa
 istranslated: true
-lastmod: "2023-01-02T17:55:00+07:00"
+lastmod: "2023-01-04T13:28:00+07:00"
 description: ""
 draft: null
 expirydate: null
@@ -113,8 +113,12 @@ weight: null
 ### 划线与复习
 复习还是蛮重要，我只复习划线的句子，短语，单词划了也不怎么看，单独来看不太好记，每个人记忆方式不同，我经过实践我不适合
 
+
+
 ### 插图画廊
-最后结尾秀一下完全基于 notion 生成的博客的 **Gallery** 模式 ，还有待完善：
+ ~~最后结尾秀一下完全基于 notion 生成的博客的~~  ~~ **Gallery** ~~  ~~模式 ，还有待完善：~~ 
+
+画廊 feature 已删除，会影响用户的行为，待重新规划
 
 
 

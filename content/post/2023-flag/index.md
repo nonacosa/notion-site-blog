@@ -8,7 +8,7 @@ keywords: []
 createat: "2023-01-04T01:48:00+07:00"
 author: nonacosa
 istranslated: true
-lastmod: "2023-01-04T08:21:00+07:00"
+lastmod: "2023-01-04T13:29:00+07:00"
 description: ""
 draft: null
 expirydate: null
@@ -35,6 +35,6 @@ weight: null
 
 - [ ] 学习资产配置， **总资产** 年化收益达到 5%
 
-- [ ] 全面检查肠胃
+- [ ] 肠镜、胃镜全面检查
 
 
