@@ -20,7 +20,7 @@ jobs:
         uses: pkwenda/notion-site@master
         env:
           NOTION_SECRET : ${{ secrets.NOTION_SECRET }}
-       name: Check if there are any changes
+      - name: Check if there are any changes
         id: verify_diff
         run: |
           git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
