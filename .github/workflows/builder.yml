@@ -20,15 +20,12 @@ jobs:
         uses: pkwenda/notion-site@master
         env:
           NOTION_SECRET : ${{ secrets.NOTION_SECRET }}
-      - name: Check for changes
+       name: Check if there are any changes
+        id: verify_diff
         run: |
-          if ! git diff-index --quiet HEAD; then
-            echo "There are changes to commit."
-          else
-            echo "There are no changes to commit."
-            exit 1
-          fi
+          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
       - name: Commit files
+        if: steps.verify_diff.outputs.changed == 'true'
         run: |
           git config user.email "action@github.com"
           git config user.name "GitHub Actions"
@@ -37,23 +34,21 @@ jobs:
           git config pull.rebase false
           git pull
           git push 
-      # - name: Format documents
-        # uses: creyD/prettier_action@v3.1
-        # with:
-          # prettier_options: --write ./content/**/*.md
-          # commit_message: 'notion-site: update articles (auto)'
       - name: Setup Hugo
+        if: steps.verify_diff.outputs.changed == 'true'
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
           extended: true
       - uses: actions/cache@v2
+        if: steps.verify_diff.outputs.changed == 'true'
         with:
           path: /tmp/hugo_cache
           key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
           restore-keys: |
             ${{ runner.os }}-hugomod-
       - name: Build
+        if: steps.verify_diff.outputs.changed == 'true'
         run: hugo --minify
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
