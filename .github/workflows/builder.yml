@@ -2,7 +2,7 @@ name: build
 on:
   schedule:
   # github 延迟测试，UTC 时间测试 https://zhuanlan.zhihu.com/p/369780435
-    - cron: "0 */1 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch: ~
 jobs:
   sync:
