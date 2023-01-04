@@ -20,6 +20,14 @@ jobs:
         uses: pkwenda/notion-site@master
         env:
           NOTION_SECRET : ${{ secrets.NOTION_SECRET }}
+      - name: Check for changes
+        run: |
+          if ! git diff-index --quiet HEAD; then
+            echo "There are changes to commit."
+          else
+            echo "There are no changes to commit."
+            exit 1
+          fi
       - name: Commit files
         run: |
           git config user.email "action@github.com"
