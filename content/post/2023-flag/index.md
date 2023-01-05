@@ -8,7 +8,7 @@ keywords: []
 createat: "2023-01-04T01:48:00+07:00"
 author: nonacosa
 istranslated: true
-lastmod: "2023-01-05T02:26:00+07:00"
+lastmod: "2023-01-05T09:37:00+07:00"
 description: ""
 draft: null
 expirydate: null
@@ -33,7 +33,7 @@ weight: null
 
 - [ ] 点亮 Flutter 技能树，开发一个英文阅读器 APP
 
-- [ ] 学习资产配置， **总资产** 年化收益达到 5%
+- [ ] 学习资产配置， **总资产** 年化收益达到 ~~5%~~ 4%
 
 - [ ] 肠镜、胃镜全面体检
 
