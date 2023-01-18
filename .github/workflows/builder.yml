@@ -1,7 +1,7 @@
 name: build
 on:
   schedule:
-    - cron: "0 */1 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch: ~
 jobs:
   sync:
@@ -20,12 +20,12 @@ jobs:
         uses: pkwenda/notion-site@master
         env:
           NOTION_SECRET : ${{ secrets.NOTION_SECRET }}
-      - name: Check if there are any changes
-        id: verify_diff
-        run: |
-          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
+      # - name: Check if there are any changes
+      #   id: verify_diff
+      #   run: |
+      #     git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
       - name: Commit files
-        if: steps.verify_diff.outputs.changed == 'true'
+        # if: steps.verify_diff.outputs.changed == 'true'
         run: |
           git config user.email "action@github.com"
           git config user.name "GitHub Actions"
@@ -35,26 +35,24 @@ jobs:
           git pull
           git push 
       - name: Setup Hugo
-        if: steps.verify_diff.outputs.changed == 'true'
+        # if: steps.verify_diff.outputs.changed == 'true'
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
           extended: true
       - uses: actions/cache@v2
-        if: steps.verify_diff.outputs.changed == 'true'
+        # if: steps.verify_diff.outputs.changed == 'true'
         with:
           path: /tmp/hugo_cache
           key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
           restore-keys: |
             ${{ runner.os }}-hugomod-
       - name: Build
-        if: steps.verify_diff.outputs.changed == 'true'
+        # if: steps.verify_diff.outputs.changed == 'true'
         run: hugo --minify
       - name: Deploy
-        if: steps.verify_diff.outputs.changed == 'true'
+        # if: steps.verify_diff.outputs.changed == 'true'
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          user_name: 'github-actions[bot]'
-          user_email: 'github-actions[bot]@users.noreply.github.com'
