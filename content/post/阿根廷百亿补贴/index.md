@@ -1,6 +1,6 @@
 ---
 title: 阿根廷百亿补贴
-status: Finished
+status: Published
 position: null
 categories: []
 tags: []
@@ -8,12 +8,12 @@ keywords: []
 createat: "2023-01-26T15:34:00+07:00"
 author: nonacosa
 istranslated: true
-lastmod: "2023-01-26T15:50:00+07:00"
+lastmod: "2023-01-26T16:11:00+07:00"
 description: ""
 draft: null
 expirydate: null
 show_comments: false
-slug: ""
+slug: ars-visa
 image: media/s3.us-west-2.amazonaws.com_special-offer-40-off-banner-design-on-white-background-vector-illustration-R1XW7W.jpg
 weight: null
 ---
@@ -21,29 +21,36 @@ weight: null
 
 
 
-过年好，标题是我开玩笑的，阿根廷为了刺激消费出了一些政策，应该不算是漏洞，我借此续费了一些域名，大概 40% OFF 左右，前提是有 VISA 全币种卡，教程：
+过年好，标题是<span style="background-color: rgba(251, 236, 221, 1);">我开玩笑的</span>，阿根廷央行的一个新政策，本意是用黑市汇率促进大家去阿根廷旅游消费，结果搞出来了bug，变成了只要能找到地方允许用阿根廷货币支付，一切消费大概 30% - 40% OFF 左右，本质原因还是阿根廷的： **“双轨制汇率” ，** 操作前提是有 VISA 全币种卡，教程：
 
 ### Godaddy 主站切换地区币种
 <!--more-->![](media/s3.us-west-2.amazonaws.com_932ac0b8-a1c0-48a0-93ad-115e5d21b02b.png)
 
-
-
-西主站下拉到最下面，建议为新加坡区，支付方式为 ARS（阿根廷比索）
+进入狗爹主站下拉到最下面，建议为新加坡区，支付方式为 ARS（阿根廷比索）
 
 
 
 ### 结算
 选需要续费的域名，进入购物车结算即可，具体金额以信用卡 POST 金额为准。
 
-
-
-![](media/s3.us-west-2.amazonaws.com_c34656fa-ff0b-42ff-8052-f640d96243fc.png)
+![](media/s3.us-west-2.amazonaws.com_30ebe666-7573-4efd-aa9a-5d0fdb390636.png)
 
 
 
 ![](media/s3.us-west-2.amazonaws.com_9a4024cb-b219-4011-9bb2-c3f6f865b758.png)
 
-以目前汇率，818 比索不到30块人民币的样子，很多人撸了酒店已经住进去了，还有定机票、报旅行团的，甚至有交学费的，有一些最终没有 POST，有一些已经成功。
+以目前汇率，818 比索不到30块人民币的样子，实际操作下来大概 7 折左右，这两天很多人撸了酒店已经住进去了，还有定机票、报旅行团的，甚至有交学费的，有一些最终没有 POST，有一些已经成功。
+
+
+
+### 其他续费 case
+
+
+![](media/s3.us-west-2.amazonaws.com_9175362b-1b3c-4f55-bde2-ffc8382f2085.png)
+
+![](media/s3.us-west-2.amazonaws.com_4698bdae-3e3e-4781-a2ad-16e35a9a993a.png)
+
+200/278 , 大概 7 折 左右。
 
 ### 还能买什么？
 {{< bookmark image="https://www.uscardforum.com/uploads/default/original/1X/05236f295ec6a40bdd5588b3d35a04d01ebfb67e.png" icon="https://www.uscardforum.com/uploads/default/optimized/1X/05236f295ec6a40bdd5588b3d35a04d01ebfb67e_2_32x32.png" url="https://www.uscardforum.com/t/topic/132382/1858"  des="立省 👍 👍"  title="【百亿补贴】Visa 爆發阿根廷匯率漏洞"  >}}
