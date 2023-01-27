@@ -3,12 +3,12 @@ title: 阿根廷百亿补贴
 status: Published
 position: null
 categories: []
-tags: []
+tags: [羊毛]
 keywords: []
 createat: "2023-01-26T15:34:00+07:00"
 author: nonacosa
 istranslated: true
-lastmod: "2023-01-26T16:11:00+07:00"
+lastmod: "2023-01-26T16:32:00+07:00"
 description: ""
 draft: null
 expirydate: null
@@ -21,10 +21,14 @@ weight: null
 
 
 
-过年好，标题是<span style="background-color: rgba(251, 236, 221, 1);">我开玩笑的</span>，阿根廷央行的一个新政策，本意是用黑市汇率促进大家去阿根廷旅游消费，结果搞出来了bug，变成了只要能找到地方允许用阿根廷货币支付，一切消费大概 30% - 40% OFF 左右，本质原因还是阿根廷的： **“双轨制汇率” ，** 操作前提是有 VISA 全币种卡，教程：
+过年好，标题是<span style="background-color: rgba(251, 236, 221, 1);">我开玩笑的</span>，阿根廷央行的一个新政策，本意是用黑市汇率促进大家去阿根廷旅游消费，结果搞出来了bug，变成了只要能找到地方允许用阿根廷货币支付，一切消费大概 30% - 40% OFF 左右，本质原因还是阿根廷的： **“双轨制汇率”** 
+
+{{< bookmark image="https://www.uscreditcardguide.com/wp-content/uploads/IMG_5830-rotated-e1674777583529.jpg" icon="https://www.uscreditcardguide.com/wp-content/uploads/cropped-logo-without-word-5-192x192.png" url="https://www.uscreditcardguide.com/fengkuangdeagentingyangxingbaiyibutie-liyong-visa-mastercard-agentinghuishuailoudong-shixianba/#12_informal_rate"  des="Contents0. 一句话总结1. 背景部分1.1. 阿根廷“双轨制汇率”1.2. 放开信用卡 informal rate 兑换后的疯狂2. 干货部分2.1. 付学校账单、学费、学杂费：2.2. Gift cards & Games:2.3. 机票、火车票、车票：2.4. 旅行预定平台2.5. 电商2.6. 网站服务2.7. 其他3. 一些注意和讨论 0. 一句话总结 阿根廷央行的一个新...Read more"  title="疯狂的“阿根廷央行百亿补贴” — 利用 Visa/Mastercard 阿根廷汇率漏洞 实现六折消费！【奇技淫巧】"  >}}
+
+<!--more-->操作前提是有 VISA 全币种卡，以 godaddy 为例，教程：
 
 ### Godaddy 主站切换地区币种
-<!--more-->![](media/s3.us-west-2.amazonaws.com_932ac0b8-a1c0-48a0-93ad-115e5d21b02b.png)
+![](media/s3.us-west-2.amazonaws.com_932ac0b8-a1c0-48a0-93ad-115e5d21b02b.png)
 
 进入狗爹主站下拉到最下面，建议为新加坡区，支付方式为 ARS（阿根廷比索）
 
