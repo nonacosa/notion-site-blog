@@ -23,7 +23,7 @@ weight: null
 
 过年好，标题是<span style="background-color: rgba(251, 236, 221, 1);">我开玩笑的</span>，阿根廷央行的一个新政策，本意是用黑市汇率促进大家去阿根廷旅游消费，结果搞出来了bug，变成了只要能找到地方允许用阿根廷货币支付，一切消费大概 30% - 40% OFF 左右，本质原因还是阿根廷的： **“双轨制汇率”** 
 
-{{< bookmark image="https://www.uscreditcardguide.com/wp-content/uploads/IMG_5830-rotated-e1674777583529.jpg" icon="https://www.uscreditcardguide.com/wp-content/uploads/cropped-logo-without-word-5-192x192.png" url="https://www.uscreditcardguide.com/fengkuangdeagentingyangxingbaiyibutie-liyong-visa-mastercard-agentinghuishuailoudong-shixianba/#12_informal_rate"  des="Contents0. 一句话总结1. 背景部分1.1. 阿根廷“双轨制汇率”1.2. 放开信用卡 informal rate 兑换后的疯狂2. 干货部分2.1. 付学校账单、学费、学杂费：2.2. Gift cards & Games:2.3. 机票、火车票、车票：2.4. 旅行预定平台2.5. 电商2.6. 网站服务2.7. 其他3. 一些注意和讨论 0. 一句话总结 阿根廷央行的一个新...Read more"  title="疯狂的“阿根廷央行百亿补贴” — 利用 Visa/Mastercard 阿根廷汇率漏洞 实现六折消费！【奇技淫巧】"  >}}
+{{< bookmark image="https://www.uscreditcardguide.com/wp-content/uploads/IMG_5830-rotated-e1674777583529.jpg" icon="https://www.uscreditcardguide.com/wp-content/uploads/cropped-logo-without-word-5-192x192.png" url="https://www.uscreditcardguide.com/fengkuangdeagentingyangxingbaiyibutie-liyong-visa-mastercard-agentinghuishuailoudong-shixianba/#12_informal_rate"  des="【2023.1.28 更新】 大概率已死，不要撸了！系统时间 2023.1.28，Visa 正式调整汇率，USD-ARS 返回 official rate （约 1 usd = 189.0 ars），ARS-USD 基本维持 informal rate（约 326.7 ars = 1 usd），也就是说再以ars消费，会支付基本相同金额的 usd，但一旦发生退货，只能获得原始支出的 58% ！ 【...Read more"  title="疯狂的“阿根廷央行百亿补贴” — 利用 Visa/Mastercard 阿根廷汇率漏洞 实现六折消费！【奇技淫巧】【更新：已过期】"  >}}
 
 <!--more-->操作前提是有 VISA 全币种卡，以 godaddy 为例，教程：
 
