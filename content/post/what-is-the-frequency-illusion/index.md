@@ -8,7 +8,7 @@ keywords: []
 createat: "2022-12-21T09:24:00+07:00"
 author: nonacosa
 istranslated: true
-lastmod: "2023-01-02T17:55:00+07:00"
+lastmod: "2023-04-17T13:20:00+07:00"
 description: ""
 draft: null
 expirydate: null
@@ -62,15 +62,6 @@ The key is to train your subconscious mind what things are important to you, so 
 In general, "actually" is used to provide information that may be surprising or unexpected, while "certainly" is used to express strong confidence or assurance.
 
 
-
-###  ***demonstrates VS illustrates*** 
-Demonstrates 和 illustrates 都是动词，表示证明或表现的意思。两者的意思有很大的重叠，但是在某些情况下，两者有一些微小的区别。
-
-Demonstrates 强调表现出来的过程，指在特定的情况下，通过动作或行为来证明或表明某件事情。例如，"The scientist demonstrated the experiment to the class"（科学家向班里展示了这个实验）。
-
-Illustrates 则指通过图画、图表或其他形式的表示来阐述或说明某件事情。例如，"The teacher illustrated the concept with a diagram"（老师用图表来解释这个概念）。
-
-总的来说，demonstrates 常用于指人的动作或行为，而 illustrates 常用于指静态的图画或图表。但是这两个词也可以互换使用，具体使用哪个单词取决于您想要传达的意思以及上下文。
 
 
 
