@@ -2,13 +2,13 @@
 title: 总览 RocketMq
 status: Published
 position: null
-categories: [中间件]
+categories: [English]
 tags: [RocketMQ]
 keywords: [消息队列]
 createat: "2023-04-17T06:15:00+07:00"
 author: nonacosa
 istranslated: true
-lastmod: "2023-04-17T13:19:00+07:00"
+lastmod: "2023-05-06T03:42:00+07:00"
 description: ""
 draft: null
 expirydate: null
