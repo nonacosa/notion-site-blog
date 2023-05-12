@@ -827,4 +827,23 @@ loading="lazy"
 class="gallery-image"
 data-flex-grow="166"
 data-flex-basis="400px"
->&lt;/p></description></item></channel></rss>
+>&lt;/p></description></item><item><title>About</title><link>https://blog.env.wtf/about/</link><pubDate>Mon, 02 Jan 2023 18:56:00 +0700</pubDate><guid>https://blog.env.wtf/about/</guid><description>&lt;img src="https://blog.env.wtf/media/s3.us-west-2.amazonaws.com_61vl05lJtFL.jpg" alt="Featured image of post About" />&lt;h1 id="hi-im-nonacosa">Hi I’m Nonacosa&lt;/h1>
+&lt;p>My name is Radek and I’m the author of this theme. I made it to help you present your ideas easier.&lt;/p>
+&lt;p>We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.&lt;/p>
+&lt;p>This theme is pretty basic and covers all of the essentials. All you have to do is start typing!&lt;/p>
+&lt;p>The theme includes:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>light/dark mode&lt;/strong> , depending on your preferences&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>great reading experience thanks to &lt;strong>&lt;a class="link" href="https://rsms.me/inter/" target="_blank" rel="noopener"
+>Inter font&lt;/a>&lt;/strong> , made by&lt;a class="link" href="https://rsms.me/about/" target="_blank" rel="noopener"
+>Rasmus Andersson&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>nice code highlighting thanks to &lt;strong>&lt;a class="link" href="https://prismjs.com/" target="_blank" rel="noopener"
+>PrismJS&lt;/a>&lt;/strong>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>So, there you have it… enjoy!&lt;/p></description></item></channel></rss>
